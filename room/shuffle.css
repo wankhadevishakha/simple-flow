@@ -1,0 +1,27 @@
+/* shuffle.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.rooms {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.room {
+  background-color: #f0f0f0;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+}
+
+#shuffleButton {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
